@@ -1,0 +1,66 @@
+[submodule "Autodafe"]
+	path = Autodafe
+	url = git@github.com:antoniograzioli/Autodafe.git
+[submodule "cf"]
+	path = cf
+	url = git@github.com:cfoulc/cf.git
+[submodule "Fundamental"]
+	path = Fundamental
+	url = git@github.com:VCVRack/Fundamental.git
+[submodule "AudibleInstruments"]
+	path = AudibleInstruments
+	url = git@github.com:VCVRack/AudibleInstruments.git
+[submodule "Befaco"]
+	path = Befaco
+	url = git@github.com:VCVRack/Befaco.git
+[submodule "ESeries"]
+	path = ESeries
+	url = git@github.com:VCVRack/ESeries.git
+[submodule "SonusModular"]
+	path = SonusModular
+	url = https://gitlab.com/sonusdept/sonusmodular.git
+[submodule "PvC"]
+	path = PvC
+	url = git@github.com:phdsg/PvC.git
+[submodule "Bidoo"]
+	path = Bidoo
+	url = git@github.com:sebastien-bouffier/Bidoo.git
+[submodule "Bogaudio"]
+	path = Bogaudio
+	url = git@github.com:bogaudio/BogaudioModules.git
+[submodule "Gratix"]
+	path = Gratix
+	url = git@github.com:gratrix/vcv-gratrix.git
+[submodule "HetrickCV"]
+	path = HetrickCV
+	url = git@github.com:mhetrick/hetrickcv.git
+[submodule "JE"]
+	path = JE
+	url = git@github.com:eres-j/VCVRack-plugin-JE.git
+[submodule "JW-Modules"]
+	path = JW-Modules
+	url = git@github.com:jeremywen/JW-Modules.git
+[submodule "KarateSnoopy"]
+	path = KarateSnoopy
+	url = git@github.com:KarateSnoopy/vcv-karatesnoopy.git
+[submodule "LOGinstruments"]
+	path = LOGinstruments
+	url = git@github.com:leopard86/LOGinstruments.git
+[submodule "Lindenberg Research"]
+	path = Lindenberg Research
+	url = git@github.com:lindenbergresearch/LRTRack.git
+[submodule "ML_modules"]
+	path = ML_modules
+	url = git@github.com:martin-lueders/ML_modules.git
+[submodule "MSM"]
+	path = MSM
+	url = git@github.com:Phal-anx/MSM.git
+[submodule "MrLumps"]
+	path = MrLumps
+	url = git@github.com:djpeterso23662/MrLumps.git
+[submodule "NauModular"]
+	path = NauModular
+	url = git@github.com:naus3a/NauModular.git
+[submodule "Nohmad"]
+	path = Nohmad
+	url = git@github.com:joelrobichaud/Nohmad.git
