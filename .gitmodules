@@ -64,3 +64,51 @@
 [submodule "Nohmad"]
 	path = Nohmad
 	url = git@github.com:joelrobichaud/Nohmad.git
+[submodule "NonLinearInstruments"]
+	path = NonLinearInstruments
+	url = git@github.com:NonLinearInstruments/NLNRI_VCVRackPlugins.git
+[submodule "Qwelk"]
+	path = Qwelk
+	url = git@github.com:raincheque/qwelk.git
+[submodule "RJModules"]
+	path = RJModules
+	url = git@github.com:Miserlou/RJModules.git
+[submodule "RODENTMODULES"]
+	path = RODENTMODULES
+	url = git@github.com:RODENTCAT/RODENTMODULES.git
+[submodule "Simplemodulepack"]
+	path = Simplemodulepack
+	url = git@github.com:IohannRabeson/VCVRack-Simple.git
+[submodule "StellareModular-Link"]
+	path = StellareModular-Link
+	url = git@github.com:stellare-modular/vcv-link.git
+[submodule "StellareModular"]
+	path = StellareModular
+	url = git@github.com:stellare-modular/vcv-rack.git
+[submodule "Valley Free"]
+	path = Valley Free
+	url = git@github.com:ValleyAudio/ValleyRackFree.git
+[submodule "dBiz"]
+	path = dBiz
+	url = git@github.com:dBiz/dBiz.git
+[submodule "dekstop"]
+	path = dekstop
+	url = git@github.com:dekstop/vcvrackplugins_dekstop.git
+[submodule "luckyxxl"]
+	path = luckyxxl
+	url = git@github.com:luckyxxl/vcv_luckyxxl.git
+[submodule "mental"]
+	path = mental
+	url = git@github.com:Strum/Strums_Mental_VCV_Modules.git
+[submodule "moDllz"]
+	path = moDllz
+	url = git@github.com:dllmusic/VCV_moDllz.git
+[submodule "mscHack"]
+	path = mscHack
+	url = git@github.com:mschack/VCV-Rack-Plugins.git
+[submodule "s-ol"]
+	path = s-ol
+	url = git@github.com:s-ol/vcvmods.git
+[submodule "trowaSoft"]
+	path = trowaSoft
+	url = git@github.com:j4s0n-c/trowaSoft-VCV.git
