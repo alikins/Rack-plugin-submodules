@@ -118,3 +118,6 @@
 [submodule "mtsch-plugins"]
 	path = mtsch-plugins
 	url = https://github.com/mtsch/mtsch-vcvrack-plugins
+[submodule "AmalgamatedHarmonics"]
+	path = AmalgamatedHarmonics
+	url = https://github.com/jhoar/AmalgamatedHarmonics
