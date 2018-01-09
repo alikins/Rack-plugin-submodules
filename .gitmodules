@@ -121,3 +121,24 @@
 [submodule "AmalgamatedHarmonics"]
 	path = AmalgamatedHarmonics
 	url = https://github.com/jhoar/AmalgamatedHarmonics
+[submodule "JLmod"]
+	path = JLmod
+	url = git@github.com:JoakimLindbom/vcvrack.git
+[submodule "SynthKit"]
+	path = SynthKit
+	url = git@github.com:JerrySievert/SynthKit.git
+[submodule "stk"]
+	path = stk
+	url = git@github.com:briansorahan/stk.git
+[submodule "Jimm"]
+	path = Jimm
+	url = git@github.com:jimm/vcv-jimm.git
+[submodule "Fredmin-Sequencer"]
+	path = Fredmin-Sequencer
+	url = git@github.com:malcolmflint/Fredmin-Sequencer.git
+[submodule "monome"]
+	path = monome
+	url = git@github.com:Dewb/monome-rack.git
+[submodule "Yggdrasil"]
+	path = Yggdrasil
+	url = git@github.com:morten-leerhoy/harsh-noise-wall.git
