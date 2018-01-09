@@ -112,3 +112,9 @@
 [submodule "trowaSoft"]
 	path = trowaSoft
 	url = git@github.com:j4s0n-c/trowaSoft-VCV.git
+[submodule "Djack13-Csound"]
+	path = Djack13-Csound
+	url = git@github.com:Djack13/VCV-Rack-Csound-Modules.git
+[submodule "mtsch-plugins"]
+	path = mtsch-plugins
+	url = https://github.com/mtsch/mtsch-vcvrack-plugins
