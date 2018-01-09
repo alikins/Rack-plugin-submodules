@@ -77,7 +77,7 @@
 	path = RODENTMODULES
 	url = git@github.com:RODENTCAT/RODENTMODULES.git
 [submodule "Simplemodulepack"]
-	path = Simplemodulepack
+	path = IO-Simple
 	url = git@github.com:IohannRabeson/VCVRack-Simple.git
 [submodule "StellareModular-Link"]
 	path = StellareModular-Link
