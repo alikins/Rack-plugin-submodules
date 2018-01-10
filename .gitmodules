@@ -136,9 +136,6 @@
 [submodule "Fredmin-Sequencer"]
 	path = Fredmin-Sequencer
 	url = git@github.com:malcolmflint/Fredmin-Sequencer.git
-[submodule "monome"]
-	path = monome
-	url = git@github.com:Dewb/monome-rack.git
 [submodule "Yggdrasil"]
 	path = Yggdrasil
 	url = git@github.com:morten-leerhoy/harsh-noise-wall.git
