@@ -100,9 +100,6 @@
 [submodule "mental"]
 	path = mental
 	url = git@github.com:Strum/Strums_Mental_VCV_Modules.git
-[submodule "moDllz"]
-	path = moDllz
-	url = git@github.com:dllmusic/VCV_moDllz.git
 [submodule "mscHack"]
 	path = mscHack
 	url = git@github.com:mschack/VCV-Rack-Plugins.git
