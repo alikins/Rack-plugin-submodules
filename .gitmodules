@@ -1,6 +1,3 @@
-[submodule "Autodafe"]
-	path = Autodafe
-	url = git@github.com:antoniograzioli/Autodafe.git
 [submodule "cf"]
 	path = cf
 	url = git@github.com:cfoulc/cf.git
