@@ -139,3 +139,6 @@
 [submodule "TheXOR"]
 	path = TheXOR
 	url = git@github.com:The-XOR/VCV-Sequencers.git
+[submodule "moDllz"]
+	path = moDllz
+	url = https://github.com/dllmusic/VCV_moDllz
