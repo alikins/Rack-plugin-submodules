@@ -133,3 +133,6 @@
 [submodule "Autodafe"]
 	path = Autodafe
 	url = https://github.com/antoniograzioli/Autodafe
+[submodule "Gratrix"]
+	path = Gratrix
+	url = https://github.com/gratrix/vcv-gratrix
