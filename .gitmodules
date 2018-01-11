@@ -136,3 +136,6 @@
 [submodule "Gratrix"]
 	path = Gratrix
 	url = https://github.com/gratrix/vcv-gratrix
+[submodule "TheXOR"]
+	path = TheXOR
+	url = git@github.com:The-XOR/VCV-Sequencers.git
