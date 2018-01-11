@@ -136,3 +136,6 @@
 [submodule "Yggdrasil"]
 	path = Yggdrasil
 	url = git@github.com:morten-leerhoy/harsh-noise-wall.git
+[submodule "TheXOR"]
+	path = TheXOR
+	url = git@github.com:The-XOR/VCV-Sequencers.git
