@@ -151,3 +151,6 @@
 [submodule "av500"]
 	path = av500
 	url = git@github.com:av500/vcvrackplugins_av500.git
+[submodule "BaconMusic"]
+	path = BaconMusic
+	url = git@github.com:baconpaul/BaconPlugs.git
