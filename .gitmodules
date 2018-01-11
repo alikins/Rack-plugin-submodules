@@ -25,9 +25,6 @@
 [submodule "Bogaudio"]
 	path = Bogaudio
 	url = git@github.com:bogaudio/BogaudioModules.git
-[submodule "Gratix"]
-	path = Gratix
-	url = git@github.com:gratrix/vcv-gratrix.git
 [submodule "HetrickCV"]
 	path = HetrickCV
 	url = git@github.com:mhetrick/hetrickcv.git
