@@ -142,3 +142,6 @@
 [submodule "moDllz"]
 	path = moDllz
 	url = https://github.com/dllmusic/VCV_moDllz
+[submodule "AS"]
+	path = AS
+	url = git@github.com:AScustomWorks/AS.git
