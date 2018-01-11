@@ -145,3 +145,6 @@
 [submodule "AS"]
 	path = AS
 	url = git@github.com:AScustomWorks/AS.git
+[submodule "CastleRocktronics"]
+	path = CastleRocktronics
+	url = git@github.com:KieranPringle/CastleRocktronics.git
