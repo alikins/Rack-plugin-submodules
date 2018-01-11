@@ -148,3 +148,6 @@
 [submodule "CastleRocktronics"]
 	path = CastleRocktronics
 	url = git@github.com:KieranPringle/CastleRocktronics.git
+[submodule "av500"]
+	path = av500
+	url = git@github.com:av500/vcvrackplugins_av500.git
