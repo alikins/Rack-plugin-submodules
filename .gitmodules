@@ -154,3 +154,6 @@
 [submodule "BaconMusic"]
 	path = BaconMusic
 	url = git@github.com:baconpaul/BaconPlugs.git
+[submodule "PulsumQuadratum"]
+	path = PulsumQuadratum
+	url = git@github.com:WIZARDISHUNGRY/vcvrack-rtlsdr.git
