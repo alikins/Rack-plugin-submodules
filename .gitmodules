@@ -154,3 +154,6 @@
 [submodule "BaconMusic"]
 	path = BaconMusic
 	url = git@github.com:baconpaul/BaconPlugs.git
+[submodule "Ahornberg-Microtonal"]
+	path = Ahornberg-Microtonal
+	url = git@github.com:Ahornberg/Ahornberg-Microtonal.git
