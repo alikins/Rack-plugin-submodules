@@ -157,3 +157,6 @@
 [submodule "Ahornberg-Microtonal"]
 	path = Ahornberg-Microtonal
 	url = git@github.com:Ahornberg/Ahornberg-Microtonal.git
+[submodule "PulsumQuadratum"]
+	path = PulsumQuadratum
+	url = git@github.com:WIZARDISHUNGRY/vcvrack-rtlsdr.git
