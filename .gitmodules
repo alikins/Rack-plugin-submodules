@@ -169,3 +169,6 @@
 [submodule "TechTechTechnologies"]
 	path = TechTechTechnologies
 	url = git@github.com:wlaub/vcv.git
+[submodule "SklarModules"]
+	path = SklarModules
+	url = git@github.com:sklarsa/SklarModules.git
