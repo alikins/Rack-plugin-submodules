@@ -172,3 +172,6 @@
 [submodule "SklarModules"]
 	path = SklarModules
 	url = git@github.com:sklarsa/SklarModules.git
+[submodule "Aepelzen"]
+	path = Aepelzen
+	url = git@github.com:Aepelzen/AepelzensModules.git
