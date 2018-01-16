@@ -160,3 +160,6 @@
 [submodule "PulsumQuadratum"]
 	path = PulsumQuadratum
 	url = git@github.com:WIZARDISHUNGRY/vcvrack-rtlsdr.git
+[submodule "DHE-Modules"]
+	path = DHE-Modules
+	url = git@github.com:dhemery/DHE-Modules.git
