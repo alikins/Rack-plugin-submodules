@@ -166,3 +166,6 @@
 [submodule "Multiclock"]
 	path = Multiclock
 	url = git@github.com:mlove-au/multiclock.git
+[submodule "TechTechTechnologies"]
+	path = TechTechTechnologies
+	url = git@github.com:wlaub/vcv.git
