@@ -163,3 +163,6 @@
 [submodule "DHE-Modules"]
 	path = DHE-Modules
 	url = git@github.com:dhemery/DHE-Modules.git
+[submodule "Multiclock"]
+	path = Multiclock
+	url = git@github.com:mlove-au/multiclock.git
