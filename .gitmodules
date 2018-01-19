@@ -46,8 +46,8 @@
 [submodule "LOGinstruments"]
 	path = LOGinstruments
 	url = git@github.com:leopard86/LOGinstruments.git
-[submodule "Lindenberg Research"]
-	path = Lindenberg Research
+[submodule "LindenbergResearch"]
+	path = LindenbergResearch
 	url = git@github.com:lindenbergresearch/LRTRack.git
 [submodule "ML_modules"]
 	path = ML_modules
