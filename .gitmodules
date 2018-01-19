@@ -175,3 +175,6 @@
 [submodule "Aepelzen"]
 	path = Aepelzen
 	url = git@github.com:Aepelzen/AepelzensModules.git
+[submodule "Jaffasplaffa"]
+	path = Jaffasplaffa
+	url = git@github.com:jaffasplaffa/VCV-MorphOsc.git
