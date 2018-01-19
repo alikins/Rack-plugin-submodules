@@ -85,8 +85,8 @@
 [submodule "StellareModular"]
 	path = StellareModular
 	url = git@github.com:stellare-modular/vcv-rack.git
-[submodule "Valley Free"]
-	path = Valley Free
+[submodule "ValleyFree"]
+	path = ValleyFree
 	url = git@github.com:ValleyAudio/ValleyRackFree.git
 [submodule "dBiz"]
 	path = dBiz
