@@ -25,6 +25,9 @@ git_fetch:
 git_pull:
 	for f in $(PLUGIN_DIRS); do echo "# 'git pull' for plugin submodule: $$f"; git -C "$$f" pull; done
 
+git_pull_master:
+	for f in $(PLUGIN_DIRS); do echo "# 'git pull origin master' for plugin submodule: $$f"; git -C "$$f" pull origin master; done
+
 git_add:
 	for f in $(PLUGIN_DIRS); do echo "# 'git add $$f' for plugin submodule: $$f"; echo git add "$$f" ; done
 
