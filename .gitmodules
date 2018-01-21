@@ -178,3 +178,9 @@
 [submodule "Jaffasplaffa"]
 	path = Jaffasplaffa
 	url = git@github.com:jaffasplaffa/VCV-MorphOsc.git
+[submodule "FXKit"]
+	path = FXKit
+	url = git@github.com:JerrySievert/FXKit.git
+[submodule "Agave"]
+	path = Agave
+	url = git@github.com:fabianesqueda/Agave.git
