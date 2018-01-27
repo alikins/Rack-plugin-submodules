@@ -184,3 +184,6 @@
 [submodule "Agave"]
 	path = Agave
 	url = git@github.com:fabianesqueda/Agave.git
+[submodule "FrozenWasteland"]
+	path = FrozenWasteland
+	url = git@github.com:almostEric/FrozenWasteland.git
