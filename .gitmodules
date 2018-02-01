@@ -187,3 +187,9 @@
 [submodule "lufu"]
 	path = lufu
 	url = git@github.com:mlove-au/lufu-modules.git
+[submodule "com-soundchasing-stochasm"]
+	path = com-soundchasing-stochasm
+	url = git@github.com:teletypist/stochasm.git
+[submodule "JEM-Modules"]
+	path = JEM-Modules
+	url = git@github.com:jonmarple/JEM-Modules.git
