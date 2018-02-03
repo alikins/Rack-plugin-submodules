@@ -199,3 +199,6 @@
 [submodule "CharredDesert"]
 	path = CharredDesert
 	url = git@github.com:JerrySievert/CharredDesert.git
+[submodule "southpole"]
+	path = southpole
+	url = git@github.com:gbrandt1/southpole-vcvrack.git
