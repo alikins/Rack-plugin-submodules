@@ -202,3 +202,6 @@
 [submodule "southpole"]
 	path = southpole
 	url = git@github.com:gbrandt1/southpole-vcvrack.git
+[submodule "DrumKit"]
+	path = DrumKit
+	url = git@github.com:JerrySievert/DrumKit.git
