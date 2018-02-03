@@ -196,3 +196,6 @@
 [submodule "Ohmer"]
 	path = Ohmer
 	url = git@github.com:DomiKamu/Ohmer-Modules.git
+[submodule "CharredDesert"]
+	path = CharredDesert
+	url = git@github.com:JerrySievert/CharredDesert.git
