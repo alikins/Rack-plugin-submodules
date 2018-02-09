@@ -202,3 +202,21 @@
 [submodule "DrumKit"]
 	path = DrumKit
 	url = git@github.com:JerrySievert/DrumKit.git
+[submodule "Bark"]
+	path = Bark
+	url = git@github.com:Coirt/Bark.git
+[submodule "RAYNTools"]
+	path = RAYNTools
+	url = git@github.com:charles-rayner/RAYNTools.git
+[submodule "MPE"]
+	path = MPE
+	url = git@github.com:bafonso/MPE.git
+[submodule "GuitarPlugins"]
+	path = GuitarPlugins
+	url = git@github.com:jhoar/GP.git
+[submodule "grpGran"]
+	path = grpGran
+	url = git@github.com:guestroomproject/grp-plugins.git
+[submodule "Kain"]
+	path = Kain
+	url = git@github.com:fenykep/Kain.git
