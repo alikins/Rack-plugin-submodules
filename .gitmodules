@@ -220,3 +220,6 @@
 [submodule "Kain"]
 	path = Kain
 	url = git@github.com:fenykep/Kain.git
+[submodule "UModules"]
+	path = UModules
+	url = git@github.com:ffucci/UModules.git
