@@ -223,3 +223,6 @@
 [submodule "UModules"]
 	path = UModules
 	url = git@github.com:ffucci/UModules.git
+[submodule "moDllz"]
+	path = moDllz
+	url = git@github.com:dllmusic/VCV_moDllz.git
