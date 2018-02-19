@@ -232,3 +232,6 @@
 [submodule "Instruments"]
 	path = Instruments
 	url = git@github.com:JerrySievert/Instruments.git
+[submodule "VCVia"]
+	path = VCVia
+	url = git@github.com:liquidcitymotors/VCVia.git
