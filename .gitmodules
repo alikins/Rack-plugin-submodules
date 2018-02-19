@@ -229,3 +229,6 @@
 [submodule "squinkylabs-plug1"]
 	path = squinkylabs-plug1
 	url = git@github.com:squinkylabs/SquinkyVCV.git
+[submodule "Instruments"]
+	path = Instruments
+	url = git@github.com:JerrySievert/Instruments.git
