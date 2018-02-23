@@ -235,3 +235,6 @@
 [submodule "VCVia"]
 	path = VCVia
 	url = git@github.com:liquidcitymotors/VCVia.git
+[submodule "SchmickleWorks"]
+	path = SchmickleWorks
+	url = git@github.com:cclark2a/SchmickleWorks.git
