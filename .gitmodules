@@ -238,3 +238,6 @@
 [submodule "SchmickleWorks"]
 	path = SchmickleWorks
 	url = git@github.com:cclark2a/SchmickleWorks.git
+[submodule "bitFetcher"]
+	path = bitFetcher
+	url = git@github.com:bitfetcher/bF.git
