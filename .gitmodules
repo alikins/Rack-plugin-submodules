@@ -241,3 +241,6 @@
 [submodule "bitFetcher"]
 	path = bitFetcher
 	url = git@github.com:bitfetcher/bF.git
+[submodule "ArableInstruments"]
+	path = ArableInstruments
+	url = git@github.com:adbrant/ArableInstruments.git
