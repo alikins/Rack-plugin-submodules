@@ -244,3 +244,15 @@
 [submodule "ArableInstruments"]
 	path = ArableInstruments
 	url = git@github.com:adbrant/ArableInstruments.git
+[submodule "ElasticOrange-Evaluator4x4"]
+	path = ElasticOrange-Evaluator4x4
+	url = git@github.com:mharju/VCV-Evaluator.git
+[submodule "CabbageRack"]
+	path = CabbageRack
+	url = git@github.com:rorywalsh/CabbageRack.git
+[submodule "EO2"]
+	path = EO2
+	url = git@github.com:EO2/VCV-EO2-Modules.git
+[submodule "ArpTestExample"]
+	path = ArpTestExample
+	url = git@github.com:JerrySievert/arptest.git
