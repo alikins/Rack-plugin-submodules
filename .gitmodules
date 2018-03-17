@@ -190,9 +190,6 @@
 [submodule "JEM-Modules"]
 	path = JEM-Modules
 	url = git@github.com:jonmarple/JEM-Modules.git
-[submodule "Ohmer"]
-	path = Ohmer
-	url = git@github.com:DomiKamu/Ohmer-Modules.git
 [submodule "CharredDesert"]
 	path = CharredDesert
 	url = git@github.com:JerrySievert/CharredDesert.git
