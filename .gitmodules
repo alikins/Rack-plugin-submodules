@@ -220,9 +220,6 @@
 [submodule "UModules"]
 	path = UModules
 	url = git@github.com:ffucci/UModules.git
-[submodule "moDllz"]
-	path = moDllz
-	url = git@github.com:dllmusic/VCV_moDllz.git
 [submodule "squinkylabs-plug1"]
 	path = squinkylabs-plug1
 	url = git@github.com:squinkylabs/SquinkyVCV.git
