@@ -250,3 +250,12 @@
 [submodule "ArpTestExample"]
 	path = ArpTestExample
 	url = git@github.com:JerrySievert/arptest.git
+[submodule "ImpromptuModular"]
+	path = ImpromptuModular
+	url = git@github.com:MarcBoule/ImpromptuModular.git
+[submodule "SubmarinePrototype"]
+	path = SubmarinePrototype
+	url = git@github.com:david-c14/submarine-prototype-vcv.git
+[submodule "tnorris-BostonBrightonModules"]
+	path = tnorris-BostonBrightonModules
+	url = git@github.com:tnorris/BBI.git
