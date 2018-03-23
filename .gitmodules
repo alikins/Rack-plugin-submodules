@@ -259,3 +259,6 @@
 [submodule "tnorris-BostonBrightonModules"]
 	path = tnorris-BostonBrightonModules
 	url = git@github.com:tnorris/BBI.git
+[submodule "modular80"]
+	path = modular80
+	url = git@github.com:cschol/modular80.git
