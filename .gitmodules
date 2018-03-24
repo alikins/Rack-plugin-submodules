@@ -1,267 +1,356 @@
 [submodule "Autodafe"]
 	path = Autodafe
 	url = git@github.com:antoniograzioli/Autodafe.git
+    branch = master
 [submodule "cf"]
 	path = cf
 	url = git@github.com:cfoulc/cf.git
+    branch = master
 [submodule "Fundamental"]
 	path = Fundamental
 	url = git@github.com:VCVRack/Fundamental.git
+    branch = master
 [submodule "AudibleInstruments"]
 	path = AudibleInstruments
 	url = git@github.com:VCVRack/AudibleInstruments.git
+    branch = master
 [submodule "Befaco"]
 	path = Befaco
 	url = git@github.com:VCVRack/Befaco.git
+    branch = master
 [submodule "ESeries"]
 	path = ESeries
 	url = git@github.com:VCVRack/ESeries.git
+    branch = master
 [submodule "SonusModular"]
 	path = SonusModular
 	url = https://gitlab.com/sonusdept/sonusmodular.git
+    branch = master
 [submodule "PvC"]
 	path = PvC
 	url = git@github.com:phdsg/PvC.git
+    branch = master
 [submodule "Bidoo"]
 	path = Bidoo
 	url = git@github.com:sebastien-bouffier/Bidoo.git
+    branch = master
 [submodule "Bogaudio"]
 	path = Bogaudio
 	url = git@github.com:bogaudio/BogaudioModules.git
+    branch = master
 [submodule "Gratrix"]
 	path = Gratrix
 	url = git@github.com:gratrix/vcv-gratrix.git
+    branch = master
 [submodule "HetrickCV"]
 	path = HetrickCV
 	url = git@github.com:mhetrick/hetrickcv.git
+    branch = master
 [submodule "JE"]
 	path = JE
 	url = git@github.com:eres-j/VCVRack-plugin-JE.git
+    branch = master
 [submodule "JW-Modules"]
 	path = JW-Modules
 	url = git@github.com:jeremywen/JW-Modules.git
+    branch = master
 [submodule "KarateSnoopy"]
 	path = KarateSnoopy
 	url = git@github.com:KarateSnoopy/vcv-karatesnoopy.git
+    branch = master
 [submodule "LOGinstruments"]
 	path = LOGinstruments
 	url = git@github.com:leopard86/LOGinstruments.git
+    branch = master
 [submodule "LindenbergResearch"]
 	path = LindenbergResearch
 	url = git@github.com:lindenbergresearch/LRTRack.git
+    branch = master
 [submodule "ML_modules"]
 	path = ML_modules
 	url = git@github.com:martin-lueders/ML_modules.git
+    branch = master
 [submodule "MSM"]
 	path = MSM
 	url = git@github.com:Phal-anx/MSM.git
+    branch = master
 [submodule "MrLumps"]
 	path = MrLumps
 	url = git@github.com:djpeterso23662/MrLumps.git
+    branch = master
 [submodule "NauModular"]
 	path = NauModular
 	url = git@github.com:naus3a/NauModular.git
+    branch = master
 [submodule "Nohmad"]
 	path = Nohmad
 	url = git@github.com:joelrobichaud/Nohmad.git
+    branch = master
 [submodule "NonLinearInstruments"]
 	path = NonLinearInstruments
 	url = git@github.com:NonLinearInstruments/NLNRI_VCVRackPlugins.git
+    branch = master
 [submodule "Qwelk"]
 	path = Qwelk
 	url = git@github.com:raincheque/qwelk.git
+    branch = master
 [submodule "RJModules"]
 	path = RJModules
 	url = git@github.com:Miserlou/RJModules.git
+    branch = master
 [submodule "RODENTMODULES"]
 	path = RODENTMODULES
 	url = git@github.com:RODENTCAT/RODENTMODULES.git
+    branch = master
 [submodule "Simplemodulepack"]
 	path = IO-Simple
 	url = git@github.com:IohannRabeson/VCVRack-Simple.git
+    branch = master
 [submodule "StellareModular-Link"]
 	path = StellareModular-Link
 	url = git@github.com:stellare-modular/vcv-link.git
+    branch = master
 [submodule "StellareModular"]
 	path = StellareModular
 	url = git@github.com:stellare-modular/vcv-rack.git
+    branch = master
 [submodule "ValleyFree"]
 	path = ValleyFree
 	url = git@github.com:ValleyAudio/ValleyRackFree.git
+    branch = master
 [submodule "dBiz"]
 	path = dBiz
 	url = git@github.com:dBiz/dBiz.git
+    branch = master
 [submodule "dekstop"]
 	path = dekstop
 	url = git@github.com:dekstop/vcvrackplugins_dekstop.git
+    branch = master
 [submodule "luckyxxl"]
 	path = luckyxxl
 	url = git@github.com:luckyxxl/vcv_luckyxxl.git
+    branch = master
 [submodule "mental"]
 	path = mental
 	url = git@github.com:Strum/Strums_Mental_VCV_Modules.git
+    branch = master
 [submodule "mscHack"]
 	path = mscHack
 	url = git@github.com:mschack/VCV-Rack-Plugins.git
+    branch = master
 [submodule "s-ol"]
 	path = s-ol
 	url = git@github.com:s-ol/vcvmods.git
+    branch = master
 [submodule "trowaSoft"]
 	path = trowaSoft
 	url = git@github.com:j4s0n-c/trowaSoft-VCV.git
+    branch = master
 [submodule "Djack13-Csound"]
 	path = Djack13-Csound
 	url = git@github.com:Djack13/VCV-Rack-Csound-Modules.git
+    branch = master
 [submodule "mtsch-plugins"]
 	path = mtsch-plugins
 	url = https://github.com/mtsch/mtsch-vcvrack-plugins
+    branch = master
 [submodule "AmalgamatedHarmonics"]
 	path = AmalgamatedHarmonics
 	url = https://github.com/jhoar/AmalgamatedHarmonics
+    branch = master
 [submodule "JLmod"]
 	path = JLmod
 	url = git@github.com:JoakimLindbom/vcvrack.git
+    branch = master
 [submodule "SynthKit"]
 	path = SynthKit
 	url = git@github.com:JerrySievert/SynthKit.git
+    branch = master
 [submodule "stk"]
 	path = stk
 	url = git@github.com:briansorahan/stk.git
+    branch = master
 [submodule "Jimm"]
 	path = Jimm
 	url = git@github.com:jimm/vcv-jimm.git
+    branch = master
 [submodule "Fredmin-Sequencer"]
 	path = Fredmin-Sequencer
 	url = git@github.com:malcolmflint/Fredmin-Sequencer.git
+    branch = master
 [submodule "Yggdrasil"]
 	path = Yggdrasil
 	url = git@github.com:morten-leerhoy/harsh-noise-wall.git
+    branch = master
 [submodule "TheXOR"]
 	path = TheXOR
 	url = git@github.com:The-XOR/VCV-Sequencers.git
+    branch = master
 [submodule "AS"]
 	path = AS
 	url = git@github.com:AScustomWorks/AS.git
+    branch = master
 [submodule "CastleRocktronics"]
 	path = CastleRocktronics
 	url = git@github.com:KieranPringle/CastleRocktronics.git
+    branch = master
 [submodule "av500"]
 	path = av500
 	url = git@github.com:av500/vcvrackplugins_av500.git
+    branch = master
 [submodule "BaconMusic"]
 	path = BaconMusic
 	url = git@github.com:baconpaul/BaconPlugs.git
+    branch = master
 [submodule "Ahornberg-Microtonal"]
 	path = Ahornberg-Microtonal
 	url = git@github.com:Ahornberg/Ahornberg-Microtonal.git
+    branch = master
 [submodule "PulsumQuadratum"]
 	path = PulsumQuadratum
 	url = git@github.com:WIZARDISHUNGRY/vcvrack-rtlsdr.git
+    branch = master
 [submodule "DHE-Modules"]
 	path = DHE-Modules
 	url = git@github.com:dhemery/DHE-Modules.git
+    branch = master
 [submodule "TechTechTechnologies"]
 	path = TechTechTechnologies
 	url = git@github.com:wlaub/vcv.git
+    branch = master
 [submodule "SklarModules"]
 	path = SklarModules
 	url = git@github.com:sklarsa/SklarModules.git
+    branch = master
 [submodule "Aepelzen"]
 	path = Aepelzen
 	url = git@github.com:Aepelzen/AepelzensModules.git
+    branch = master
 [submodule "Jaffasplaffa"]
 	path = Jaffasplaffa
 	url = git@github.com:jaffasplaffa/VCV-MorphOsc.git
+    branch = master
 [submodule "FXKit"]
 	path = FXKit
 	url = git@github.com:JerrySievert/FXKit.git
+    branch = master
 [submodule "Agave"]
 	path = Agave
 	url = git@github.com:fabianesqueda/Agave.git
+    branch = master
 [submodule "FrozenWasteland"]
 	path = FrozenWasteland
 	url = git@github.com:almostEric/FrozenWasteland.git
+    branch = master
 [submodule "lufu"]
 	path = lufu
 	url = git@github.com:mlove-au/lufu-modules.git
+    branch = master
 [submodule "com-soundchasing-stochasm"]
 	path = com-soundchasing-stochasm
 	url = git@github.com:teletypist/stochasm.git
+    branch = master
 [submodule "JEM-Modules"]
 	path = JEM-Modules
 	url = git@github.com:jonmarple/JEM-Modules.git
+    branch = master
 [submodule "CharredDesert"]
 	path = CharredDesert
 	url = git@github.com:JerrySievert/CharredDesert.git
+    branch = master
 [submodule "southpole"]
 	path = southpole
 	url = git@github.com:gbrandt1/southpole-vcvrack.git
+    branch = master
 [submodule "DrumKit"]
 	path = DrumKit
 	url = git@github.com:JerrySievert/DrumKit.git
+    branch = master
 [submodule "Bark"]
 	path = Bark
 	url = git@github.com:Coirt/Bark.git
+    branch = master
 [submodule "RAYNTools"]
 	path = RAYNTools
 	url = git@github.com:charles-rayner/RAYNTools.git
+    branch = master
 [submodule "MPE"]
 	path = MPE
 	url = git@github.com:bafonso/MPE.git
+    branch = master
 [submodule "GuitarPlugins"]
 	path = GuitarPlugins
 	url = git@github.com:jhoar/GP.git
+    branch = master
 [submodule "grpGran"]
 	path = grpGran
 	url = git@github.com:guestroomproject/grp-plugins.git
+    branch = master
 [submodule "Kain"]
 	path = Kain
 	url = git@github.com:fenykep/Kain.git
+    branch = master
 [submodule "UModules"]
 	path = UModules
 	url = git@github.com:ffucci/UModules.git
+    branch = master
 [submodule "squinkylabs-plug1"]
 	path = squinkylabs-plug1
 	url = git@github.com:squinkylabs/SquinkyVCV.git
+    branch = master
 [submodule "Instruments"]
 	path = Instruments
 	url = git@github.com:JerrySievert/Instruments.git
+    branch = master
 [submodule "VCVia"]
 	path = VCVia
 	url = git@github.com:liquidcitymotors/VCVia.git
+    branch = master
 [submodule "SchmickleWorks"]
 	path = SchmickleWorks
 	url = git@github.com:cclark2a/SchmickleWorks.git
+    branch = master
 [submodule "bitFetcher"]
 	path = bitFetcher
 	url = git@github.com:bitfetcher/bF.git
+    branch = master
 [submodule "ArableInstruments"]
 	path = ArableInstruments
 	url = git@github.com:adbrant/ArableInstruments.git
+    branch = master
 [submodule "ElasticOrange-Evaluator4x4"]
 	path = ElasticOrange-Evaluator4x4
 	url = git@github.com:mharju/VCV-Evaluator.git
+    branch = master
 [submodule "CabbageRack"]
 	path = CabbageRack
 	url = git@github.com:rorywalsh/CabbageRack.git
+    branch = master
 [submodule "EO2"]
 	path = EO2
 	url = git@github.com:EO2/VCV-EO2-Modules.git
+    branch = master
 [submodule "ArpTestExample"]
 	path = ArpTestExample
 	url = git@github.com:JerrySievert/arptest.git
+    branch = master
 [submodule "ImpromptuModular"]
 	path = ImpromptuModular
 	url = git@github.com:MarcBoule/ImpromptuModular.git
+    branch = master
 [submodule "SubmarinePrototype"]
 	path = SubmarinePrototype
 	url = git@github.com:david-c14/submarine-prototype-vcv.git
+    branch = master
 [submodule "tnorris-BostonBrightonModules"]
 	path = tnorris-BostonBrightonModules
 	url = git@github.com:tnorris/BBI.git
+    branch = master
 [submodule "modular80"]
 	path = modular80
 	url = git@github.com:cschol/modular80.git
+    branch = master
 [submodule "KoralfxVCV"]
 	path = KoralfxVCV
 	url = git@github.com:koralfx/KoralfxVCV.git
+    branch = master
