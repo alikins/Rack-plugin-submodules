@@ -278,10 +278,6 @@
 	path = MPE
 	url = git@github.com:bafonso/MPE.git
     branch = master
-[submodule "GuitarPlugins"]
-	path = GuitarPlugins
-	url = git@github.com:jhoar/GP.git
-    branch = master
 [submodule "grpGran"]
 	path = grpGran
 	url = git@github.com:guestroomproject/grp-plugins.git
