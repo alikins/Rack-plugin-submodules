@@ -350,3 +350,48 @@
 	path = KoralfxVCV
 	url = git@github.com:koralfx/KoralfxVCV.git
     branch = master
+[submodule "FrankBussFormula"]
+	path = FrankBussFormula
+	url = git@github.com:FrankBuss/Formula.git
+[submodule "nd3"]
+	path = nd3
+	url = git@github.com:briansorahan/nd3.git
+[submodule "NotStraightLines"]
+	path = NotStraightLines
+	url = git@github.com:AndrewBelt/NotStraightLines.git
+[submodule "huaba"]
+	path = huaba
+	url = git@github.com:dhuber81/huaba.git
+[submodule "TWD-Plugins"]
+	path = TWD-Plugins
+	url = git@github.com:trblwdreams/twd-plugins.git
+[submodule "mdh-modules"]
+	path = mdh-modules
+	url = git@github.com:matthewh806/mdh_modules.git
+[submodule "JPaoletti-AssortedModules"]
+	path = JPaoletti-AssortedModules
+	url = git@github.com:JordanPaoletti/Assorted_VCV.git
+[submodule "Bargkass"]
+	path = Bargkass
+	url = git@github.com:korfuri/Bargkass.git
+[submodule "BOKONTEPByteBeatMachine"]
+	path = BOKONTEPByteBeatMachine
+	url = git@github.com:bokontep/BokontepByteBeatMachine.git
+[submodule "SerialRacker"]
+	path = SerialRacker
+	url = git@github.com:apbianco/SerialRacker.git
+[submodule "PG-Instruments"]
+	path = PG-Instruments
+	url = git@github.com:imekon/PG-Instruments.git
+[submodule "Aaron-MicroTools"]
+	path = Aaron-MicroTools
+	url = git@github.com:a2aaron/VCVMicroTools.git
+[submodule "Niko"]
+	path = Niko
+	url = git@github.com:NikolajAndersson/RackPlugins.git
+[submodule "SubmarineFree"]
+	path = SubmarineFree
+	url = git@github.com:david-c14/SubmarineFree.git
+[submodule "DLwigglz"]
+	path = DLwigglz
+	url = git@github.com:dirkleas/DLwigglz.git
