@@ -146,10 +146,6 @@
 	path = trowaSoft
 	url = git@github.com:j4s0n-c/trowaSoft-VCV.git
     branch = master
-[submodule "Djack13-Csound"]
-	path = Djack13-Csound
-	url = git@github.com:Djack13/VCV-Rack-Csound-Modules.git
-    branch = master
 [submodule "mtsch-plugins"]
 	path = mtsch-plugins
 	url = https://github.com/mtsch/mtsch-vcvrack-plugins
@@ -209,10 +205,6 @@
 [submodule "PulsumQuadratum"]
 	path = PulsumQuadratum
 	url = git@github.com:WIZARDISHUNGRY/vcvrack-rtlsdr.git
-    branch = master
-[submodule "DHE-Modules"]
-	path = DHE-Modules
-	url = git@github.com:dhemery/DHE-Modules.git
     branch = master
 [submodule "TechTechTechnologies"]
 	path = TechTechTechnologies
@@ -362,9 +354,6 @@
 [submodule "huaba"]
 	path = huaba
 	url = git@github.com:dhuber81/huaba.git
-[submodule "TWD-Plugins"]
-	path = TWD-Plugins
-	url = git@github.com:trblwdreams/twd-plugins.git
 [submodule "mdh-modules"]
 	path = mdh-modules
 	url = git@github.com:matthewh806/mdh_modules.git
@@ -395,3 +384,21 @@
 [submodule "DLwigglz"]
 	path = DLwigglz
 	url = git@github.com:dirkleas/DLwigglz.git
+[submodule "STS"]
+	path = STS
+	url = git@github.com:SmallTownSound/STS.git
+[submodule "aP-Modules"]
+	path = aP-Modules
+	url = git@github.com:aptrn/aP-Modules.git
+[submodule "ExpressionSequencer"]
+	path = ExpressionSequencer
+	url = git@github.com:atduskgreg/ExpressionSequencer.git
+[submodule "GutenAudioModules"]
+	path = GutenAudioModules
+	url = git@github.com:Gutenkunst/GutenAudioModules.git
+[submodule "AmateurResearch"]
+	path = AmateurResearch
+	url = git@github.com:MattKuebrich/AmateurResearch.git
+[submodule "1987"]
+	path = 1987
+	url = git@github.com:cfoulc/1987.git
