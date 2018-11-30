@@ -459,3 +459,6 @@
 [submodule "jsfx"]
 	path = jsfx
 	url = git@github.com:Rcomian/jsfx-vcv.git
+[submodule "Roli"]
+	path = Roli
+	url = git@github.com:danpetry/Roli.git
