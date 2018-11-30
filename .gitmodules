@@ -450,3 +450,6 @@
 [submodule "Modiy"]
 	path = Modiy
 	url = git@github.com:buzzinglight/Modiy.git
+[submodule "arjo_modules"]
+	path = arjo_modules
+	url = git@github.com:ArjoNagelhout/arjo_modules.git
