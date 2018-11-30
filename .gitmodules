@@ -456,3 +456,6 @@
 [submodule "ChortlingHamsterModules"]
 	path = ChortlingHamsterModules
 	url = git@github.com:ChortlingHamster/Modules.git
+[submodule "jsfx"]
+	path = jsfx
+	url = git@github.com:Rcomian/jsfx-vcv.git
