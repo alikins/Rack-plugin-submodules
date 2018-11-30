@@ -408,3 +408,9 @@
 [submodule "BeckstromResearch"]
 	path = BeckstromResearch
 	url = git@github.com:chrisbeckstrom/Beckstrom_Research_Rack.git
+[submodule "ProtoTools"]
+	path = ProtoTools
+	url = git@github.com:JerrySievert/ProtoTools.git
+[submodule "ErraticInstruments"]
+	path = ErraticInstruments
+	url = git@github.com:bafonso/Erratic.git
