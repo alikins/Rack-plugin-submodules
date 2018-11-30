@@ -453,3 +453,6 @@
 [submodule "arjo_modules"]
 	path = arjo_modules
 	url = git@github.com:ArjoNagelhout/arjo_modules.git
+[submodule "ChortlingHamsterModules"]
+	path = ChortlingHamsterModules
+	url = git@github.com:ChortlingHamster/Modules.git
