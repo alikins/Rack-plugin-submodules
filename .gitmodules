@@ -438,3 +438,6 @@
 [submodule "NANOmodules"]
 	path = NANOmodules
 	url = git@github.com:vibiss/NANO-VCVModules.git
+[submodule "FrozenWastelandKFLight"]
+	path = FrozenWastelandKFLight
+	url = git@github.com:KlirrFactory/PortlandWeatherKFLight.git
