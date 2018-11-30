@@ -468,3 +468,6 @@
 [submodule "ChipTuner"]
 	path = ChipTuner
 	url = git@github.com:The-Great-Assyr/Chiptuner-0.6.2.git
+[submodule "MazeModules"]
+	path = MazeModules
+	url = git@github.com:MazeOfEncryption/MazeModules.git
