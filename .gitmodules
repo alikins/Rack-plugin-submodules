@@ -417,3 +417,9 @@
 [submodule "rossco255"]
 	path = rossco255
 	url = git@github.com:rossco255/moduleDEV.git
+[submodule "alto777_LFSR"]
+	path = alto777_LFSR
+	url = git@github.com:alto777/LFSR.git
+[submodule "alto777_Playground"]
+	path = alto777_Playground
+	url = git@github.com:alto777/Playground.git
