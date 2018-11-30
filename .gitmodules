@@ -426,3 +426,6 @@
 [submodule "zFundamental"]
 	path = zFundamental
 	url = git@github.com:mi-rack/zFundamental.git
+[submodule "mrVanDalo"]
+	path = mrVanDalo
+	url = git@github.com:mrVanDalo/VCVRecorder.git
