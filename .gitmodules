@@ -471,3 +471,6 @@
 [submodule "MazeModules"]
 	path = MazeModules
 	url = git@github.com:MazeOfEncryption/MazeModules.git
+[submodule "AuntyLangton"]
+	path = AuntyLangton
+	url = git@github.com:64MM4-KN1F3/AuntyLangtons.git
