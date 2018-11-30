@@ -474,3 +474,6 @@
 [submodule "AuntyLangton"]
 	path = AuntyLangton
 	url = git@github.com:64MM4-KN1F3/AuntyLangtons.git
+[submodule "computerscare"]
+	path = computerscare
+	url = git@github.com:freddyz/computerscare-vcv-modules.git
