@@ -447,3 +447,6 @@
 [submodule "ApolloCommandModules"]
 	path = ApolloCommandModules
 	url = git@github.com:ericdweitzel/ApolloCommandModules.git
+[submodule "Modiy"]
+	path = Modiy
+	url = git@github.com:buzzinglight/Modiy.git
