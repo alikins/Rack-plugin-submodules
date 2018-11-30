@@ -432,3 +432,6 @@
 [submodule "Sculpt-O-Sound"]
 	path = Sculpt-O-Sound
 	url = git@github.com:josbouten/Sculpt-O-Sound.git
+[submodule "TercerBrazo"]
+	path = TercerBrazo
+	url = git@github.com:diegodorado/TercerBrazo.git
