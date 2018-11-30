@@ -444,3 +444,6 @@
 [submodule "spin"]
 	path = spin
 	url = git@github.com:cfoulc/spin.git
+[submodule "ApolloCommandModules"]
+	path = ApolloCommandModules
+	url = git@github.com:ericdweitzel/ApolloCommandModules.git
