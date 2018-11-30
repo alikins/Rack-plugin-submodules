@@ -435,3 +435,6 @@
 [submodule "TercerBrazo"]
 	path = TercerBrazo
 	url = git@github.com:diegodorado/TercerBrazo.git
+[submodule "NANOmodules"]
+	path = NANOmodules
+	url = git@github.com:vibiss/NANO-VCVModules.git
