@@ -441,3 +441,6 @@
 [submodule "FrozenWastelandKFLight"]
 	path = FrozenWastelandKFLight
 	url = git@github.com:KlirrFactory/PortlandWeatherKFLight.git
+[submodule "spin"]
+	path = spin
+	url = git@github.com:cfoulc/spin.git
