@@ -465,3 +465,6 @@
 [submodule "NocturnalEncoder"]
 	path = NocturnalEncoder
 	url = git@github.com:djpeterso23662/NocturnalEncoder.git
+[submodule "ChipTuner"]
+	path = ChipTuner
+	url = git@github.com:The-Great-Assyr/Chiptuner-0.6.2.git
