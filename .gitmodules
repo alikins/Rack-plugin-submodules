@@ -462,3 +462,6 @@
 [submodule "Roli"]
 	path = Roli
 	url = git@github.com:danpetry/Roli.git
+[submodule "NocturnalEncoder"]
+	path = NocturnalEncoder
+	url = git@github.com:djpeterso23662/NocturnalEncoder.git
