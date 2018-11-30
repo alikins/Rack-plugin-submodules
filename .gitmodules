@@ -402,3 +402,6 @@
 [submodule "1987"]
 	path = 1987
 	url = git@github.com:cfoulc/1987.git
+[submodule "QuantalAudio"]
+	path = QuantalAudio
+	url = git@github.com:sumpygump/quantal-audio.git
