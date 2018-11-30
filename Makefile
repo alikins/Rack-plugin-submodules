@@ -1,10 +1,9 @@
 
-
 # Plugin helpers
 PLUGIN_DIRS = $(wildcard */.)
 
 allplugins:
-	for f in $(PLUGIN_DIRS); do $(MAKE) -C "$$f"; done
+	for f in $(PLUGIN_DIRS); do echo "******* Building $$f ********"; $(MAKE)  -C "$$f"; echo "** Built $$f **"; done
 
 cleanplugins:
 	for f in $(PLUGIN_DIRS); do $(MAKE) -C "$$f" clean; done
