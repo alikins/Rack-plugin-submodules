@@ -423,3 +423,6 @@
 [submodule "alto777_Playground"]
 	path = alto777_Playground
 	url = git@github.com:alto777/Playground.git
+[submodule "zFundamental"]
+	path = zFundamental
+	url = git@github.com:mi-rack/zFundamental.git
