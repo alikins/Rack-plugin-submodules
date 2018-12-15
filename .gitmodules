@@ -481,3 +481,7 @@
 	path = rcm
 	url = git@github.com:Rcomian/rcm-modules.git
 	branch = v0.6
+[submodule "HolonicSystems-Free"]
+	path = HolonicSystems-Free
+	url = git@github.com:hdavid/VCVRack-Holon.ist.git
+	branch = master
